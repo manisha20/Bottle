@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bottle</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weight_collector">WeightCollector</string>
+    <string name="title_activity_height_collector">HeightCollector</string>
+    <string name="title_activity_water_consumption_displayer">WaterConsumptionDisplayer</string>
+    <string name="title_activity_bluetooth">BluetoothActivity</string>
+</resources>
